@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Numpy"
-    url: /msbaenote.github.io/Numpy/
+    url: /Numpy/
   - title: "Pandas"
     url: /Pandas/
   - title: "Sitemap"
