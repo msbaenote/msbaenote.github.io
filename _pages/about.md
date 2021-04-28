@@ -1,7 +1,7 @@
 ---
 title: "이 블로그 설명서"
 permalink: /about/
-layout: single
+layout: collection
 ---
 
 ## devinlife.github.io 블로그
