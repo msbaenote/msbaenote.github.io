@@ -3,7 +3,7 @@ main:
   - title: "Recent post"
     url: https://msbaenote.github.io
   - title: "About"
-    url: /msbaenote.github.io/about/
+    url: /about/
   - title: "Numpy"
     url: /msbaenote.github.io/Numpy/
   - title: "Pandas"
