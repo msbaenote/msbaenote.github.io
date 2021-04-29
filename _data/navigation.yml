@@ -2,11 +2,5 @@
 main:
   - title: "Recent post"
     url: https://msbaenote.github.io
-  - title: "About"
-    url: /about/
-  - title: "Numpy"
-    url: /Numpy/
-  - title: "Pandas"
-    url: /Pandas/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Category"
+    url: /categories/
